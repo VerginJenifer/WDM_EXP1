@@ -55,6 +55,7 @@ rainy,75.0,80.0,false,yes
 ### OUTPUT:
 
 ![image](https://github.com/user-attachments/assets/208e8d5c-a003-42b5-b9ee-da86ab3b55c7)
+
 ![Screenshot 2024-08-13 091222](https://github.com/user-attachments/assets/68bc4632-8343-46c8-b980-ee2199e84af0)
 
 ### PREPROCESSING
@@ -78,6 +79,8 @@ rainy,75.0,80.0,false,yes
 ### OUTPUT:
 ![image](https://github.com/user-attachments/assets/2beb2270-720f-47c5-8bbe-3ad71865e0bd)
 
+![image](https://github.com/user-attachments/assets/e06319f7-486f-47ca-9033-4ba63099d3ff)
+
 ### 2) Remove -> Pre-Processing Technique:
 
 1) Start -> Programs -> Weka-3-4 -> Weka-3-4
@@ -95,6 +98,8 @@ rainy,75.0,80.0,false,yes
 ### OUTPUT:
 ![image](https://github.com/user-attachments/assets/9225783a-89af-4daf-aa44-b0a409291f45)
 
+![image](https://github.com/user-attachments/assets/90858a7c-d182-4810-9bc7-fa1b3af63075)
+
 ### Normalize -> Pre-Processing Technique:
 
 1) Start -> Programs -> Weka-3-4 -> Weka-3-4
@@ -111,6 +116,8 @@ rainy,75.0,80.0,false,yes
 
 ### OUTPUT:
 ![image](https://github.com/user-attachments/assets/21f53eb0-a855-46e2-8669-e745071b0d6b)
+
+![image](https://github.com/user-attachments/assets/4e36055e-5796-4a05-a175-ced17fb0903a)
 
 
 ### RESULT: 
