@@ -55,7 +55,7 @@ rainy,75.0,80.0,false,yes
 ### OUTPUT:
 
 ![image](https://github.com/user-attachments/assets/208e8d5c-a003-42b5-b9ee-da86ab3b55c7)
-
+![Screenshot 2024-08-13 091222](https://github.com/user-attachments/assets/68bc4632-8343-46c8-b980-ee2199e84af0)
 
 ### PREPROCESSING
 ### Procedure:
@@ -76,6 +76,7 @@ rainy,75.0,80.0,false,yes
 14) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
+![image](https://github.com/user-attachments/assets/2beb2270-720f-47c5-8bbe-3ad71865e0bd)
 
 ### 2) Remove -> Pre-Processing Technique:
 
@@ -92,7 +93,8 @@ rainy,75.0,80.0,false,yes
 11) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
-![Screenshot 2024-08-13 091222](https://github.com/user-attachments/assets/68bc4632-8343-46c8-b980-ee2199e84af0)
+![image](https://github.com/user-attachments/assets/9225783a-89af-4daf-aa44-b0a409291f45)
+
 ### Normalize -> Pre-Processing Technique:
 
 1) Start -> Programs -> Weka-3-4 -> Weka-3-4
@@ -108,7 +110,7 @@ rainy,75.0,80.0,false,yes
 11) Click on the Edit button, it shows a new Weather Table with normalized values on Weka.
 
 ### OUTPUT:
-![image](https://github.com/user-attachments/assets/8c7175a5-844d-4fdd-aa8d-cd4150fdc63b)
+![image](https://github.com/user-attachments/assets/21f53eb0-a855-46e2-8669-e745071b0d6b)
 
 
 ### RESULT: 
